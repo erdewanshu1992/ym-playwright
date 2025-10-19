@@ -1,0 +1,3592 @@
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 14:36:49'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 14:36:49'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 14:36:49'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 14:36:49'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 14:36:49'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 14:37:34'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 14:37:34'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 14:37:34'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 14:37:34'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 14:37:34'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 14:45:48'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 14:45:50'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 14:45:58'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 14:45:58'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 14:45:58'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 14:45:58'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 14:45:58'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 14:46:58'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 14:46:58'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 14:47:01'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 14:47:02'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 14:47:02'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 14:47:02'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 14:47:02'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 14:47:37'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 14:47:37'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 14:47:43'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 14:47:43'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 14:47:43'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 14:47:43'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 14:47:43'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 14:50:16'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 14:50:17'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 14:50:21'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 14:50:24'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 14:50:45'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T09-20-47-619Z.png',
+  timestamp: '2025-06-21 14:50:48'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 14:50:51'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 14:51:01'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 14:51:07'
+}
+{
+  level: 'info',
+  message: '✅ All 7 service categories are visible',
+  timestamp: '2025-06-21 14:51:09'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 14:51:09'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 14:51:09'
+}
+{
+  level: 'info',
+  message: '✅ Featured services loaded: Weekday Offers, Waxing, Facial, Mani-Pedi, Clean-Up, Bleach & Detan, Hair, Body Polishing, Threading & Face Wax, Insta Light Pack',
+  timestamp: '2025-06-21 14:51:10'
+}
+{
+  level: 'info',
+  message: '✅ Found 10 visible featured services after category click',
+  timestamp: '2025-06-21 14:51:10'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 14:51:10'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 14:51:36'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 14:51:36'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 14:51:36'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 14:51:36'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 14:53:17'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 14:53:17'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 14:53:34'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 14:53:35'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 14:53:41'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T09-23-41-546Z.png',
+  timestamp: '2025-06-21 14:53:41'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 14:53:46'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 14:54:03'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 14:54:03'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 14:54:09'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 14:54:09'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 14:54:17'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T09-24-17-594Z.png',
+  timestamp: '2025-06-21 14:54:18'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 14:54:28'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 14:54:32'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 14:54:39'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 14:54:48'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 14:55:04'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 14:55:04'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 14:55:04'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 14:55:04'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:00:32'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:00:32'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:00:38'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:00:39'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 15:00:44'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T09-30-44-263Z.png',
+  timestamp: '2025-06-21 15:00:44'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 15:00:48'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 15:00:51'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:00:52'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:00:56'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:01:06'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:01:06'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:01:06'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:01:06'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:04:22'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:04:23'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:04:26'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:04:27'
+}
+{
+  level: 'info',
+  message: '✅ All 7 service categories are visible',
+  timestamp: '2025-06-21 15:04:35'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:04:35'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:04:35'
+}
+{
+  level: 'info',
+  message: '✅ Featured services loaded: Weekday Offers, Waxing, Facial, Mani-Pedi, Clean-Up, Bleach & Detan, Hair, Body Polishing, Threading & Face Wax, Insta Light Pack',
+  timestamp: '2025-06-21 15:04:36'
+}
+{
+  level: 'info',
+  message: '✅ Found 10 visible featured services after category click',
+  timestamp: '2025-06-21 15:04:36'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:04:36'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:04:36'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:04:36'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:04:36'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:05:26'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:05:26'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:05:30'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:05:31'
+}
+{
+  level: 'info',
+  message: '✅ All 7 service categories are visible',
+  timestamp: '2025-06-21 15:05:36'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:05:36'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:05:37'
+}
+{
+  level: 'info',
+  message: '✅ Featured services loaded: Weekday Offers, Waxing, Facial, Mani-Pedi, Clean-Up, Bleach & Detan, Hair, Body Polishing, Threading & Face Wax, Insta Light Pack',
+  timestamp: '2025-06-21 15:05:37'
+}
+{
+  level: 'info',
+  message: '✅ Found 10 visible featured services after category click',
+  timestamp: '2025-06-21 15:05:37'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:05:37'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:05:37'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:05:37'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:05:37'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:07:45'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:07:46'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:07:51'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:07:52'
+}
+{
+  level: 'info',
+  message: '✅ All 7 service categories are visible',
+  timestamp: '2025-06-21 15:07:58'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:07:59'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:07:59'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:07:59'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:07:59'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:10:12'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:10:13'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:10:14'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:10:15'
+}
+{
+  level: 'info',
+  message: '✅ Featured services loaded: Weekday Offers, Waxing, Facial, Mani-Pedi, Clean-Up, Bleach & Detan, Hair, Body Polishing, Threading & Face Wax, Insta Light Pack',
+  timestamp: '2025-06-21 15:10:17'
+}
+{
+  level: 'info',
+  message: '✅ Found 10 visible featured services after category click',
+  timestamp: '2025-06-21 15:10:17'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:10:18'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:10:18'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:10:18'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:10:18'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:12:00'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:12:00'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:12:02'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:12:03'
+}
+{
+  level: 'info',
+  message: '✅ All 7 service categories are visible: Salon At Home, Spa At Home, Hydra Facials, MakeUp At Home, Skin & Hair Consultation, Hair Studio, Pre Bridal',
+  timestamp: '2025-06-21 15:12:08'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:12:08'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:12:08'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:12:08'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:12:08'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:16:10'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:16:11'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:16:13'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:16:14'
+}
+{
+  level: 'info',
+  message: '✅ All 7 service categories are visible',
+  timestamp: '2025-06-21 15:16:29'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:16:29'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:16:29'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:16:29'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:16:29'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:17:10'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:17:10'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:17:12'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:17:13'
+}
+{
+  level: 'info',
+  message: '\x1B[32m✅ All 7 service categories are visible:\x1B[39m\n' +
+    '  \x1B[36mSalon At Home\x1B[39m\n' +
+    '  \x1B[36mSpa At Home\x1B[39m\n' +
+    '  \x1B[36mHydra Facials\x1B[39m\n' +
+    '  \x1B[36mMakeUp At Home\x1B[39m\n' +
+    '  \x1B[36mSkin & Hair Consultation\x1B[39m\n' +
+    '  \x1B[36mHair Studio\x1B[39m\n' +
+    '  \x1B[36mPre Bridal\x1B[39m',
+  timestamp: '2025-06-21 15:17:18'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:17:19'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:17:19'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:17:19'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:17:19'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:17:45'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:17:45'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:17:48'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:17:49'
+}
+{
+  level: 'info',
+  message: '\x1B[32m✅ All 7 service categories are visible:\x1B[39m\n' +
+    '  \x1B[94mSalon At Home\x1B[39m\n' +
+    '  \x1B[94mSpa At Home\x1B[39m\n' +
+    '  \x1B[94mHydra Facials\x1B[39m\n' +
+    '  \x1B[94mMakeUp At Home\x1B[39m\n' +
+    '  \x1B[94mSkin & Hair Consultation\x1B[39m\n' +
+    '  \x1B[94mHair Studio\x1B[39m\n' +
+    '  \x1B[94mPre Bridal\x1B[39m',
+  timestamp: '2025-06-21 15:17:54'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:17:55'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:17:55'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:17:55'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:17:55'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:20:56'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:20:57'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:20:59'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:21:00'
+}
+{
+  level: 'info',
+  message: '\x1B[32m✅ All 7 service categories are visible:\x1B[39m\n' +
+    '  \x1B[94mSalon At Home\x1B[39m\n' +
+    '  \x1B[94mSpa At Home\x1B[39m\n' +
+    '  \x1B[94mHydra Facials\x1B[39m\n' +
+    '  \x1B[94mMakeUp At Home\x1B[39m\n' +
+    '  \x1B[94mSkin & Hair Consultation\x1B[39m\n' +
+    '  \x1B[94mHair Studio\x1B[39m\n' +
+    '  \x1B[94mPre Bridal\x1B[39m',
+  timestamp: '2025-06-21 15:21:05'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:21:05'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:21:05'
+}
+{
+  level: 'info',
+  message: '✅ Featured services loaded: Weekday Offers, Waxing, Facial, Mani-Pedi, Clean-Up, Bleach & Detan, Hair, Body Polishing, Threading & Face Wax, Insta Light Pack',
+  timestamp: '2025-06-21 15:21:06'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:21:06'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:21:06'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:21:06'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:21:06'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:21:06'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:23:02'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:23:02'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:23:04'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:23:05'
+}
+{
+  level: 'info',
+  message: '\x1B[32m✅ All 7 service categories are visible:\x1B[39m\n' +
+    '  \x1B[94mSalon At Home\x1B[39m\n' +
+    '  \x1B[94mSpa At Home\x1B[39m\n' +
+    '  \x1B[94mHydra Facials\x1B[39m\n' +
+    '  \x1B[94mMakeUp At Home\x1B[39m\n' +
+    '  \x1B[94mSkin & Hair Consultation\x1B[39m\n' +
+    '  \x1B[94mHair Studio\x1B[39m\n' +
+    '  \x1B[94mPre Bridal\x1B[39m',
+  timestamp: '2025-06-21 15:23:10'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:23:10'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:23:10'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ Featured services loaded: Weekday Offers\x1B[39m\n' +
+    '\x1B[92m Waxing\x1B[39m\n' +
+    '\x1B[92m Facial\x1B[39m\n' +
+    '\x1B[92m Mani-Pedi\x1B[39m\n' +
+    '\x1B[92m Clean-Up\x1B[39m\n' +
+    '\x1B[92m Bleach & Detan\x1B[39m\n' +
+    '\x1B[92m Hair\x1B[39m\n' +
+    '\x1B[92m Body Polishing\x1B[39m\n' +
+    '\x1B[92m Threading & Face Wax\x1B[39m\n' +
+    '\x1B[92m Insta Light Pack\x1B[39m',
+  timestamp: '2025-06-21 15:23:10'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:23:10'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:23:11'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:23:11'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:23:11'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:23:11'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:32:21'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:32:21'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:32:23'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:32:24'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 15:32:29'
+}
+{
+  level: 'info',
+  message: '\x1B[36m  \x1B[94mSalon At Home\x1B[39m\x1B[36m\x1B[39m\n' +
+    '\x1B[36m  \x1B[94mSpa At Home\x1B[39m\x1B[36m\x1B[39m\n' +
+    '\x1B[36m  \x1B[94mHydra Facials\x1B[39m\x1B[36m\x1B[39m\n' +
+    '\x1B[36m  \x1B[94mMakeUp At Home\x1B[39m\x1B[36m\x1B[39m\n' +
+    '\x1B[36m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[36m\x1B[39m\n' +
+    '\x1B[36m  \x1B[94mHair Studio\x1B[39m\x1B[36m\x1B[39m\n' +
+    '\x1B[36m  \x1B[94mPre Bridal\x1B[39m\x1B[36m\x1B[39m',
+  timestamp: '2025-06-21 15:32:29'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:32:29'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:32:29'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ Featured services loaded: Weekday Offers\x1B[39m\n' +
+    '\x1B[92m Waxing\x1B[39m\n' +
+    '\x1B[92m Facial\x1B[39m\n' +
+    '\x1B[92m Mani-Pedi\x1B[39m\n' +
+    '\x1B[92m Clean-Up\x1B[39m\n' +
+    '\x1B[92m Bleach & Detan\x1B[39m\n' +
+    '\x1B[92m Hair\x1B[39m\n' +
+    '\x1B[92m Body Polishing\x1B[39m\n' +
+    '\x1B[92m Threading & Face Wax\x1B[39m\n' +
+    '\x1B[92m Insta Light Pack\x1B[39m',
+  timestamp: '2025-06-21 15:32:30'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:32:30'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:32:30'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:32:30'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:32:30'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:32:30'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:37:15'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:37:16'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:37:17'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:37:19'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 15:37:24'
+}
+{
+  level: 'info',
+  message: '\x1B[92m\x1B[94mSalon At Home\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mSpa At Home\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mHydra Facials\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mMakeUp At Home\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mHair Studio\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mPre Bridal\x1B[39m\x1B[92m\x1B[39m',
+  timestamp: '2025-06-21 15:37:24'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:37:24'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:37:24'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ Featured services loaded: Weekday Offers\x1B[39m\n' +
+    '\x1B[92m Waxing\x1B[39m\n' +
+    '\x1B[92m Facial\x1B[39m\n' +
+    '\x1B[92m Mani-Pedi\x1B[39m\n' +
+    '\x1B[92m Clean-Up\x1B[39m\n' +
+    '\x1B[92m Bleach & Detan\x1B[39m\n' +
+    '\x1B[92m Hair\x1B[39m\n' +
+    '\x1B[92m Body Polishing\x1B[39m\n' +
+    '\x1B[92m Threading & Face Wax\x1B[39m\n' +
+    '\x1B[92m Insta Light Pack\x1B[39m',
+  timestamp: '2025-06-21 15:37:25'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:37:25'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:37:25'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:37:25'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:37:25'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:37:25'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:38:09'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:38:09'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:38:11'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:38:12'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:38:15'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:38:15'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:38:15'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:38:15'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:38:41'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:38:41'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:38:43'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:38:44'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 15:38:49'
+}
+{
+  level: 'info',
+  message: '\x1B[92m\x1B[94mSalon At Home\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mSpa At Home\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mHydra Facials\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mMakeUp At Home\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mHair Studio\x1B[39m\x1B[92m\x1B[39m\n' +
+    '\x1B[92m \x1B[94mPre Bridal\x1B[39m\x1B[92m\x1B[39m',
+  timestamp: '2025-06-21 15:38:49'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:38:49'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:38:49'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ Featured services loaded: Weekday Offers\x1B[39m\n' +
+    '\x1B[92m Waxing\x1B[39m\n' +
+    '\x1B[92m Facial\x1B[39m\n' +
+    '\x1B[92m Mani-Pedi\x1B[39m\n' +
+    '\x1B[92m Clean-Up\x1B[39m\n' +
+    '\x1B[92m Bleach & Detan\x1B[39m\n' +
+    '\x1B[92m Hair\x1B[39m\n' +
+    '\x1B[92m Body Polishing\x1B[39m\n' +
+    '\x1B[92m Threading & Face Wax\x1B[39m\n' +
+    '\x1B[92m Insta Light Pack\x1B[39m',
+  timestamp: '2025-06-21 15:38:49'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:38:49'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:38:50'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:38:50'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:38:50'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:38:50'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:41:34'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:41:35'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:41:37'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:41:38'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 15:41:43'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 15:41:43'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:41:43'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:41:43'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ Featured services loaded: Weekday Offers\x1B[39m\n' +
+    '\x1B[92m Waxing\x1B[39m\n' +
+    '\x1B[92m Facial\x1B[39m\n' +
+    '\x1B[92m Mani-Pedi\x1B[39m\n' +
+    '\x1B[92m Clean-Up\x1B[39m\n' +
+    '\x1B[92m Bleach & Detan\x1B[39m\n' +
+    '\x1B[92m Hair\x1B[39m\n' +
+    '\x1B[92m Body Polishing\x1B[39m\n' +
+    '\x1B[92m Threading & Face Wax\x1B[39m\n' +
+    '\x1B[92m Insta Light Pack\x1B[39m',
+  timestamp: '2025-06-21 15:41:44'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:41:44'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:41:47'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:41:47'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:41:47'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:41:47'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:42:22'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:42:22'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:42:24'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:42:25'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:42:31'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:43:29'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:43:30'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:43:31'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:43:33'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 15:43:35'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T10-13-36-066Z.png',
+  timestamp: '2025-06-21 15:43:41'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 15:43:44'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 15:43:46'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:43:52'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:43:53'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:43:59'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:43:59'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:43:59'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:43:59'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:47:17'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:47:18'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:47:22'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:47:23'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 15:47:26'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T10-17-26-224Z.png',
+  timestamp: '2025-06-21 15:47:26'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 15:47:30'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:47:32'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:47:33'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:47:38'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:47:38'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:47:38'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:47:38'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:48:22'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:48:22'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:48:24'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:48:25'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 15:48:27'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T10-18-28-016Z.png',
+  timestamp: '2025-06-21 15:48:28'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 15:48:32'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 15:48:37'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:48:40'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:48:46'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:48:46'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:48:46'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:48:46'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:49:15'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:49:15'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:49:16'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:49:17'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:49:23'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:55:28'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:55:28'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:55:32'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:55:33'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 15:55:38'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 15:55:38'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:55:38'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:55:38'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 15:55:38'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:55:38'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:55:39'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:55:39'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:55:39'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:55:39'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 15:56:22'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 15:56:22'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 15:56:23'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 15:56:24'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 15:56:30'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 15:56:30'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 15:56:30'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 15:56:30'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 15:56:31'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 15:56:31'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 15:56:31'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 15:56:31'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 15:56:31'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 15:56:31'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:03:13'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:03:13'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:03:14'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:03:16'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:03:21'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:03:21'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:03:21'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:03:21'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:03:21'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:03:21'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:03:37'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:03:37'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:03:37'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:03:37'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:09:23'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:09:23'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:09:25'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:09:27'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:09:32'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:09:32'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:09:32'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:09:32'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:09:32'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:09:32'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:09:48'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:09:48'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:09:48'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:09:48'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:10:27'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:10:27'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:10:29'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:10:30'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:10:35'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:10:35'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:10:35'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:10:35'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:10:36'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:10:36'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:10:52'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:10:52'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:10:52'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:10:52'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:13:07'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:13:08'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:13:09'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:13:11'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:13:15'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:13:15'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:13:15'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:13:15'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:13:16'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:13:16'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:13:17'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:13:17'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:13:17'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:13:17'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:15:06'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:15:06'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:15:09'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:15:10'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:15:15'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:15:15'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:15:15'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:15:15'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:15:15'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:15:15'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:15:32'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:15:32'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:15:32'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:15:32'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:16:21'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:16:21'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:16:22'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:16:23'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:16:28'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:16:28'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:16:28'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:16:28'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:16:28'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:16:28'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:16:45'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:16:45'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:16:45'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:16:45'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:27:53'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:27:53'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:27:55'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:27:56'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:28:01'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:28:01'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:28:02'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:28:02'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:28:02'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:28:02'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:28:03'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:28:03'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:28:03'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:28:03'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:31:21'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:31:21'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:31:23'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:31:25'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:31:30'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:31:30'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:31:30'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:31:30'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:31:30'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:31:30'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:31:46'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:31:46'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:31:46'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:31:46'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:32:16'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:32:16'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:32:19'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:32:21'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:32:26'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:32:26'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:32:26'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:32:26'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:32:26'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:32:26'
+}
+{
+  level: 'info',
+  message: '✅ Bottom sheet closed after verifying featured services',
+  timestamp: '2025-06-21 16:32:26'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:32:32'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:32:32'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:32:32'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:32:32'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:35:34'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:35:34'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:35:36'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:35:37'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 16:35:39'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T11-05-40-032Z.png',
+  timestamp: '2025-06-21 16:35:40'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 16:35:45'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 16:35:48'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:35:53'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:35:55'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:36:01'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:36:01'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:36:01'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:36:01'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:38:13'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:38:13'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:38:16'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:38:16'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 16:38:19'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T11-08-19-116Z.png',
+  timestamp: '2025-06-21 16:38:19'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 16:38:24'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:38:29'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 16:38:34'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:38:35'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:38:40'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:38:40'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:38:40'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:38:40'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:40:29'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:40:29'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:40:31'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:40:32'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 16:40:35'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:40:39'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:40:39'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:40:39'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:40:39'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:40:39'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:40:39'
+}
+{
+  level: 'info',
+  message: '\x1B[95m✅ Bottom sheet closed after verifying featured services\x1B[39m',
+  timestamp: '2025-06-21 16:40:40'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T11-10-40-231Z.png',
+  timestamp: '2025-06-21 16:40:40'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 16:40:44'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 16:40:46'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:40:49'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:40:54'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:40:54'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:40:54'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:40:54'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 16:42:03'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 16:42:03'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 16:42:05'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:42:06'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 16:42:10'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 16:42:13'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 16:42:13'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 16:42:13'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 16:42:13'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 16:42:14'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 16:42:14'
+}
+{
+  level: 'info',
+  message: '\x1B[95m✅ Bottom sheet closed after verifying featured services\x1B[39m',
+  timestamp: '2025-06-21 16:42:14'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T11-12-14-476Z.png',
+  timestamp: '2025-06-21 16:42:14'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 16:42:18'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 16:42:23'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 16:42:26'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 16:42:31'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 16:42:31'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 16:42:31'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 16:42:31'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 17:25:58'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 17:25:58'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 17:26:01'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 17:26:03'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 17:26:05'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 17:26:12'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 17:26:12'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 17:26:12'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 17:26:12'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 17:26:12'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 17:26:12'
+}
+{
+  level: 'info',
+  message: '\x1B[95m✅ Bottom sheet closed after verifying featured services\x1B[39m',
+  timestamp: '2025-06-21 17:26:13'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 17:26:13'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 17:26:13'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 17:26:13'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 17:26:13'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 17:31:01'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 17:31:02'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 17:31:03'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 17:31:04'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 17:31:06'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 17:31:10'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 17:31:10'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 17:31:10'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 17:31:10'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 17:31:11'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 17:31:11'
+}
+{
+  level: 'info',
+  message: '\x1B[95m✅ Bottom sheet closed after verifying featured services\x1B[39m',
+  timestamp: '2025-06-21 17:31:11'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T12-01-11-999Z.png',
+  timestamp: '2025-06-21 17:31:12'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 17:31:16'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 17:31:23'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 17:31:26'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 17:31:29'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 17:31:29'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 17:31:29'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 17:31:29'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 19:02:54'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 19:02:55'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 19:02:56'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 19:02:57'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 19:03:01'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 19:03:04'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 19:03:04'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 19:03:04'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 19:03:04'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 19:03:05'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 19:03:05'
+}
+{
+  level: 'info',
+  message: '\x1B[95m✅ Bottom sheet closed after verifying featured services\x1B[39m',
+  timestamp: '2025-06-21 19:03:05'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T13-33-06-108Z.png',
+  timestamp: '2025-06-21 19:03:06'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 19:03:10'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 19:03:13'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 19:03:18'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 19:03:22'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 19:03:22'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 19:03:22'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 19:03:22'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 19:06:36'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 19:06:36'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 19:06:38'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 19:06:39'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 19:06:42'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 19:06:46'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 19:06:46'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 19:06:46'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 19:06:46'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 19:06:47'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 19:06:47'
+}
+{
+  level: 'info',
+  message: '\x1B[95m✅ Bottom sheet closed after verifying featured services\x1B[39m',
+  timestamp: '2025-06-21 19:06:47'
+}
+{
+  level: 'info',
+  message: 'Screenshot saved: categories-list-2025-06-21T13-36-47-245Z.png',
+  timestamp: '2025-06-21 19:06:47'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 19:06:52'
+}
+{
+  level: 'info',
+  message: '✅ Services loaded for /delhi/waxing',
+  timestamp: '2025-06-21 19:06:56'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 19:07:01'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 19:07:08'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 19:07:08'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 19:07:08'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 19:07:08'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-06-21 19:08:14'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-06-21 19:08:14'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-06-21 19:08:16'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-06-21 19:08:17'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-06-21 19:08:19'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 7 service categories are visible:\x1B[39m',
+  timestamp: '2025-06-21 19:08:24'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeUp At Home\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSkin & Hair Consultation\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Studio\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-06-21 19:08:24'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-06-21 19:08:24'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-06-21 19:08:24'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Weekday Offers\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-06-21 19:08:25'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 10 visible featured services after category click\x1B[39m',
+  timestamp: '2025-06-21 19:08:25'
+}
+{
+  level: 'info',
+  message: '\x1B[95m✅ Bottom sheet closed after verifying featured services\x1B[39m',
+  timestamp: '2025-06-21 19:08:25'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-06-21 19:08:25'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-06-21 19:08:25'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-06-21 19:08:25'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-06-21 19:08:25'
+}

@@ -1,0 +1,127 @@
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-10-19 15:50:27'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-10-19 15:50:27'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-10-19 15:50:27'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-10-19 15:50:27'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-10-19 15:50:27'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-10-19 15:53:10'
+}
+{
+  level: 'info',
+  message: '🌐 Skipping login in production...',
+  timestamp: '2025-10-19 15:53:12'
+}
+{
+  level: 'info',
+  message: '✅ Global setup completed',
+  timestamp: '2025-10-19 15:53:13'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-10-19 15:53:15'
+}
+{
+  level: 'info',
+  message: '✅ Home page loaded successfully',
+  timestamp: '2025-10-19 15:53:18'
+}
+{
+  level: 'info',
+  message: 'Navigating to: https://www.yesmadam.com/delhi-at-home-services/',
+  timestamp: '2025-10-19 15:53:29'
+}
+{
+  level: 'info',
+  message: '\x1B[92m✅ All 8 service categories are visible:\x1B[39m',
+  timestamp: '2025-10-19 15:53:35'
+}
+{
+  level: 'info',
+  message: '\x1B[4m  \x1B[94mSalon for Women\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mSpa for Women\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHydra Facials\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mLaser Treatments\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mBody Toning\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mMakeup & Styling\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mHair Cut & Style\x1B[39m\x1B[24m\n' +
+    '\x1B[4m  \x1B[94mPre Bridal\x1B[39m\x1B[24m',
+  timestamp: '2025-10-19 15:53:35'
+}
+{
+  level: 'info',
+  message: '✅ How It Works section is displayed',
+  timestamp: '2025-10-19 15:53:35'
+}
+{
+  level: 'info',
+  message: '✅ Footer is displayed',
+  timestamp: '2025-10-19 15:53:35'
+}
+{
+  level: 'info',
+  message: '\x1B[4m✅ Featured services loaded: Diwali Packages\x1B[24m\n' +
+    '\x1B[4m Korean Glow\x1B[24m\n' +
+    '\x1B[4m Waxing\x1B[24m\n' +
+    '\x1B[4m Facial\x1B[24m\n' +
+    '\x1B[4m Mani-Pedi\x1B[24m\n' +
+    '\x1B[4m Body Polishing\x1B[24m\n' +
+    '\x1B[4m Clean-Up\x1B[24m\n' +
+    '\x1B[4m Bleach & Detan\x1B[24m\n' +
+    '\x1B[4m Hair\x1B[24m\n' +
+    '\x1B[4m Threading & Face Wax\x1B[24m\n' +
+    '\x1B[4m Insta Light Pack\x1B[24m',
+  timestamp: '2025-10-19 15:53:35'
+}
+{
+  level: 'info',
+  message: '\x1B[94m✅ Found 11 visible featured services after category click\x1B[39m',
+  timestamp: '2025-10-19 15:53:35'
+}
+{
+  level: 'info',
+  message: '\x1B[95m✅ Bottom sheet closed after verifying featured services\x1B[39m',
+  timestamp: '2025-10-19 15:53:36'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-10-19 15:53:36'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-10-19 15:53:36'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-10-19 15:53:36'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-10-19 15:53:36'
+}

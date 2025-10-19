@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://www.yesmadam.com",
+      "localStorage": [
+        {
+          "name": "address",
+          "value": "{\"state\":{\"hydrated\":true,\"address\":\"\",\"currentLocation\":{\"lat\":\"\",\"lng\":\"\"},\"addressDetail\":{},\"tempAddressDetail\":{},\"userAllAddress\":[],\"datenTime\":{},\"selectedSlot\":{},\"userMetaData\":{},\"hubDetails\":{}},\"version\":0}"
+        }
+      ]
+    }
+  ]
+}

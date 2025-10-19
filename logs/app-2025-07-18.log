@@ -1,0 +1,154 @@
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-07-18 20:09:24'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-07-18 20:09:24'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-07-18 20:09:24'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-07-18 20:09:24'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-07-18 20:09:24'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-07-18 21:02:03'
+}
+{
+  level: 'info',
+  message: '🔐 Performing user authentication...',
+  timestamp: '2025-07-18 21:02:05'
+}
+{
+  name: 'Error',
+  level: 'error',
+  message: '❌ User authentication failed: page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.yesmadam.com/delhi-at-home-services/login\n' +
+    'Call log:\n' +
+    '\x1B[2m  - navigating to "https://www.yesmadam.com/delhi-at-home-services/login", waiting until "load"\x1B[22m\n',
+  stack: 'page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.yesmadam.com/delhi-at-home-services/login\n' +
+    'Call log:\n' +
+    '\x1B[2m  - navigating to "https://www.yesmadam.com/delhi-at-home-services/login", waiting until "load"\x1B[22m\n' +
+    '\n' +
+    '    at globalSetup (/Users/dewanshun/Desktop/ymTsPlaywright/src/config/global-setup.ts:144:18)',
+  timestamp: '2025-07-18 21:02:05'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-07-18 21:02:05'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-07-18 21:02:05'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-07-18 21:02:05'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-07-18 21:02:05'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-07-18 21:03:07'
+}
+{
+  level: 'info',
+  message: '🔐 Performing user authentication...',
+  timestamp: '2025-07-18 21:03:08'
+}
+{
+  name: 'TimeoutError',
+  level: 'error',
+  message: '❌ User authentication failed: page.fill: Timeout 30000ms exceeded.\n' +
+    'Call log:\n' +
+    `\x1B[2m  - waiting for locator('input[name="email"]')\x1B[22m\n`,
+  stack: 'page.fill: Timeout 30000ms exceeded.\n' +
+    'Call log:\n' +
+    `\x1B[2m  - waiting for locator('input[name="email"]')\x1B[22m\n` +
+    '\n' +
+    '    at globalSetup (/Users/dewanshun/Desktop/ymTsPlaywright/src/config/global-setup.ts:148:18)',
+  timestamp: '2025-07-18 21:03:45'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-07-18 21:03:45'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-07-18 21:03:45'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-07-18 21:03:45'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-07-18 21:03:45'
+}
+{
+  level: 'info',
+  message: '🚀 Starting global setup...',
+  timestamp: '2025-07-18 21:04:19'
+}
+{
+  level: 'info',
+  message: '🔐 Performing user authentication...',
+  timestamp: '2025-07-18 21:04:20'
+}
+{
+  name: 'TimeoutError',
+  level: 'error',
+  message: '❌ User authentication failed: page.fill: Timeout 30000ms exceeded.\n' +
+    'Call log:\n' +
+    `\x1B[2m  - waiting for locator('input[name="email"]')\x1B[22m\n`,
+  stack: 'page.fill: Timeout 30000ms exceeded.\n' +
+    'Call log:\n' +
+    `\x1B[2m  - waiting for locator('input[name="email"]')\x1B[22m\n` +
+    '\n' +
+    '    at globalSetup (/Users/dewanshun/Desktop/ymTsPlaywright/src/config/global-setup.ts:148:18)',
+  timestamp: '2025-07-18 21:04:54'
+}
+{
+  level: 'info',
+  message: '🧹 Starting global teardown...',
+  timestamp: '2025-07-18 21:04:54'
+}
+{
+  level: 'info',
+  message: 'Cleaning up test data...',
+  timestamp: '2025-07-18 21:04:54'
+}
+{
+  level: 'info',
+  message: '✅ Test data cleanup completed',
+  timestamp: '2025-07-18 21:04:54'
+}
+{
+  level: 'info',
+  message: '✅ Global teardown completed successfully',
+  timestamp: '2025-07-18 21:04:54'
+}
