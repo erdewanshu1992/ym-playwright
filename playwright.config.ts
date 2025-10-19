@@ -6,7 +6,7 @@ import path from 'path';
 // Load environment variables
 dotenv.config();
 
-// Helper to resolve file paths (Type added ✅)
+// Helper to resolve file paths (Type added)
 const resolveFile = (relativePath: string) => fileURLToPath(new URL(relativePath, import.meta.url));
 
 export default defineConfig({

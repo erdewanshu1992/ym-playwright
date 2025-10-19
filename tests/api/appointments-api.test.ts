@@ -21,11 +21,11 @@ test('Verify OTP and fetch appointments', async ({ request }) => {
 
   const otpData: OtpVerificationResponse = await otpRes.json();
 
-  const token = otpData.message; // ✅ Token is in `message`
+  const token = otpData.message; // Token is in `message`
   const userId = otpData.object?.user_id?.toString();
 
-  console.log("📨 OTP Token:", token);
-  console.log("👤 User ID:", userId);
+  console.log("OTP Token:", token);
+  console.log("User ID:", userId);
 
   expect(token).toBeTruthy();
   expect(userId).toBeTruthy();
@@ -44,11 +44,11 @@ test('Verify OTP and fetch appointments', async ({ request }) => {
   });
 
   const appointmentData = await appointmentRes.json();
-  console.log("📅 Appointments:", JSON.stringify(appointmentData, null, 2));
+  console.log("Appointments:", JSON.stringify(appointmentData, null, 2));
 
   expect(appointmentData).toHaveProperty('object');
   expect(Array.isArray(appointmentData.object)).toBe(true);
-  console.log(`✅ Total appointments: ${appointmentData.object.length}`);
+  console.log(`Total appointments: ${appointmentData.object.length}`);
 
 });
 
@@ -112,7 +112,7 @@ test('Verify OTP and fetch appointments', async ({ request }) => {
     status: '2'
   };
 
-  console.log('🧾 Sending Request Body:', body);
+  console.log('Sending Request Body:', body);
 
   const appointmentRes = await request.post('https://api-live.yesmadam.com/v3/userapi/myappointments',
     {

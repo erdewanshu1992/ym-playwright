@@ -1,10 +1,10 @@
 # GitHub Actions Workflow Documentation
 
-## 🎯 Overview
+## Overview
 
 This document explains the GitHub Actions workflow configuration for the YesMadam Playwright automation framework. The workflow automates test execution in a CI/CD environment, ensuring consistent and reliable testing across different environments.
 
-## 📋 Workflow Configuration
+## Workflow Configuration
 
 ### File Location
 ```
@@ -74,7 +74,7 @@ jobs:
         publish_dir: ./allure-report
 ```
 
-## 🔧 How It Works
+## How It Works
 
 ### 1. Trigger Events
 The workflow is triggered by:
@@ -220,7 +220,7 @@ The workflow is triggered by:
 - Makes test reports publicly accessible
 - Updates historical data for future trend analysis
 
-## 📊 Performance & Optimization
+## Performance & Optimization
 
 ### Caching Strategy
 - **NPM Dependencies**: Cached based on `package-lock.json` hash
@@ -232,7 +232,7 @@ The workflow is triggered by:
 - Playwright automatically distributes tests across workers
 - Configurable via `playwright.config.ts`
 
-## 🔍 Monitoring & Troubleshooting
+## Monitoring & Troubleshooting
 
 ### Viewing Workflow Results
 1. Go to your repository on GitHub
@@ -272,7 +272,7 @@ The workflow is triggered by:
 3. Access comprehensive test reports with historical trends
 4. **Note**: Reports are updated with each workflow run
 
-## 🛠️ Customization Options
+## Customization Options
 
 ### Changing Node.js Version
 ```yaml
@@ -296,7 +296,7 @@ env:
   CI: true
 ```
 
-## 📈 Best Practices
+## Best Practices
 
 ### 1. Branch Protection
 - Enable branch protection rules for `main`/`master`
@@ -316,7 +316,7 @@ env:
 - Regularly update action versions
 - Monitor for deprecated warnings
 
-## 🚀 Advanced Features
+## Advanced Features
 
 ### Matrix Testing (for future enhancement)
 ```yaml
@@ -336,7 +336,7 @@ workflow_dispatch:
       default: 'staging'
 ```
 
-## 📞 Support
+## Support
 
 For issues with this workflow:
 1. Check GitHub Actions logs for detailed error messages

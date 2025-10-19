@@ -6,3 +6,4 @@ reports
 test-results
 logs
 screenshots
+.DS_Store

@@ -8,7 +8,7 @@
 //  */
 // async function globalSetup(config: FullConfig) {
 //   const logger = Logger.getInstance();
-//   logger.info('🚀 Starting global setup...');
+//   logger.info('Starting global setup...');
 
 //   // Initialize environment
 //   Environment.initialize();
@@ -26,9 +26,9 @@
 //     // Save authentication state
 //     await context.storageState({ path: 'auth-state.json' });
     
-//     logger.info('✅ Global setup completed successfully');
+//     logger.info('Global setup completed successfully');
 //   } catch (error) {
-//     logger.error('❌ Global setup failed:', error);
+//     logger.error('Global setup failed:', error);
 //     throw error;
 //   } finally {
 //     await browser.close();
@@ -56,9 +56,9 @@
 //     // Wait for successful login
 //     await page.waitForURL('**/dashboard', { timeout: 15000 });
     
-//     logger.info('✅ User authentication successful');
+//     logger.info('User authentication successful');
 //   } catch (error) {
-//     logger.error('❌ User authentication failed:', error);
+//     logger.error('User authentication failed:', error);
 //     throw error;
 //   }
 // }
@@ -75,7 +75,7 @@
 // import { Logger } from '../utils/logger';
 
 // export default async function globalSetup(config: FullConfig) {
-//   Logger.info('🚀 Starting global setup...');
+//   Logger.info('Starting global setup...');
 //   const env = Environment.get();
 
 //   const browser = await chromium.launch({ headless: env.headless });
@@ -83,10 +83,10 @@
 //   const page = await context.newPage();
 
 //   if (process.env.NODE_ENV === 'production') {
-//     Logger.info('🌐 Skipping login in production...');
+//     Logger.info('Skipping login in production...');
 //     await page.goto(`${env.baseUrl}/delhi-at-home-services`);
 //   } else {
-//     Logger.info('🔐 Performing user authentication...');
+//     Logger.info('Performing user authentication...');
 //     try {
 //       await page.goto(`${env.baseUrl}/login`);
 //       const email = process.env.TEST_USER_EMAIL || 'test@example.com';
@@ -97,16 +97,16 @@
 //       await page.click('button[type="submit"]');
 
 //       await page.waitForLoadState('networkidle');
-//       Logger.info('✅ Login successful!');
+//       Logger.info('Login successful!');
 //     } catch (error) {
-//       Logger.error('❌ User authentication failed:', error);
+//       Logger.error('User authentication failed:', error);
 //       throw error;
 //     }
 //   }
 
 //   await context.storageState({ path: 'auth/storageState.json' });
 //   await browser.close();
-//   Logger.info('✅ Global setup completed');
+//   Logger.info('Global setup completed');
 // }
 
 
@@ -123,7 +123,7 @@ import { Logger } from '../utils/logger';
 
 
 export default async function globalSetup(config: FullConfig) {
-  Logger.info('🚀 Starting global setup...');
+  Logger.info('Starting global setup...');
 
   if (process.env.SKIP_GLOBAL_SETUP === 'true') {
     Logger.info('⏭️ SKIP_GLOBAL_SETUP flag is set. Skipping login setup...');
@@ -136,10 +136,10 @@ export default async function globalSetup(config: FullConfig) {
   const page = await context.newPage();
 
   if (process.env.NODE_ENV === 'production') {
-    Logger.info('🌐 Skipping login in production...');
+    Logger.info('Skipping login in production...');
     await page.goto(`${env.baseUrl}/delhi-at-home-services`);
   } else {
-    Logger.info('🔐 Performing user authentication...');
+    Logger.info('Performing user authentication...');
     try {
       await page.goto(`${env.baseUrl}/login`);
       const email = process.env.TEST_USER_EMAIL || 'test@yesmadam.com';
@@ -150,14 +150,14 @@ export default async function globalSetup(config: FullConfig) {
       await page.click('button[type="submit"]');
 
       await page.waitForLoadState('networkidle');
-      Logger.info('✅ Login successful!');
+      Logger.info('Login successful!');
     } catch (error) {
-      Logger.error('❌ User authentication failed:', error);
+      Logger.error('User authentication failed:', error);
       throw error;
     }
   }
 
   await context.storageState({ path: 'auth/storageState.json' });
   await browser.close();
-  Logger.info('✅ Global setup completed');
+  Logger.info('Global setup completed');
 }

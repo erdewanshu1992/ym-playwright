@@ -50,7 +50,7 @@ test.describe("Home Page Tests", () => {
 
   test("get all category names from home page", async () => {
     const categories = await homePage.getMainServiceCategoriesList();
-    console.log("🧾 Main Categories:", categories);
+    console.log("Main Categories:", categories);
 
     await allure.attachment(
       "Category List",

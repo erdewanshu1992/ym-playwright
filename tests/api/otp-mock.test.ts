@@ -6,18 +6,18 @@ test.use({
   ...devices["iPhone 13"], // Emulator view
 });
 
-test("✅ OTP API mocking + Emulator view (YesMadam login)", async ({
+test("OTP API mocking + Emulator view (YesMadam login)", async ({
   page,
 }) => {
   // Step 2: Intercept OTP API
   await page.route("**/v3/userapi/otp/verification", async (route) => {
     const request = route.request();
     const postData = await request.postDataJSON();
-    console.log("🛰️ Intercepted OTP payload:", postData);
+    console.log("Intercepted OTP payload:", postData);
 
-    // ✅ Mock match condition
+    // Mock match condition
     if (postData.mobile === "9855566677" && postData.otp === "2222") {
-      console.log("✅ Mock matched, returning mocked success");
+      console.log("Mock matched, returning mocked success");
       await route.fulfill({
         status: 200,
         contentType: "application/json",
@@ -34,7 +34,7 @@ test("✅ OTP API mocking + Emulator view (YesMadam login)", async ({
         }),
       });
     } else {
-      console.log("❌ Mock failed, returning Invalid OTP");
+      console.log("Mock failed, returning Invalid OTP");
       await route.fulfill({
         status: 401,
         contentType: "application/json",
@@ -81,9 +81,9 @@ test("✅ OTP API mocking + Emulator view (YesMadam login)", async ({
 
     // Step 3 (optional): Get toast text
     const toastText = await toast.innerText();
-    console.log(chalk.yellowBright("📢 Toast message is:", toastText));
+    console.log(chalk.yellowBright("Toast message is:", toastText));
   } catch (error) {
-    console.error(chalk.redBright("❌ Error waiting for toast:", error));
+    console.error(chalk.redBright("Error waiting for toast:", error));
   }
 
   // Step 7: Enter mocked OTP
@@ -99,7 +99,7 @@ test("✅ OTP API mocking + Emulator view (YesMadam login)", async ({
   await page.waitForTimeout(2000);
   await page.screenshot({ path: "after-otp.png", fullPage: true });
 
-  // ✅ Final assertion — this is the element shown after login
+  // Final assertion — this is the element shown after login
   await expect(page.locator('h4:has-text("Test")')).toBeVisible();
 
   // Optional URL check

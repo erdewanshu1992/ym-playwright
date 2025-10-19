@@ -2,7 +2,7 @@
 
 A comprehensive, enterprise-level Playwright TypeScript automation framework designed for testing the YesMadam platform. This framework follows industry best practices and is suitable for top-tier organizations.
 
-## 🏗️ Framework Architecture
+## Framework Architecture
 
 ```
 yesmadam-automation-framework/
@@ -21,16 +21,16 @@ yesmadam-automation-framework/
 └── allure-results/    # Allure test results
 ```
 
-## 🚀 Key Features
+## Key Features
 
-### ✅ Enterprise-Grade Architecture
+### Enterprise-Grade Architecture
 - **Page Object Model (POM)** - Maintainable and scalable test structure
 - **Modular Design** - Separated concerns with clear boundaries
 - **TypeScript Support** - Full type safety and IntelliSense
 - **Multi-Environment** - Support for Dev, Staging, and Production
 - **Multi-Browser** - Chrome, Firefox, Safari, Edge support
 
-### ✅ Advanced Testing Capabilities
+### Advanced Testing Capabilities
 - **E2E Testing** - Complete user journey testing
 - **API Testing** - RESTful API validation and testing
 - **Cross-Browser Testing** - Automated browser compatibility
@@ -39,20 +39,20 @@ yesmadam-automation-framework/
 - **Security Testing** - Authentication and authorization
 - **Accessibility Testing** - WCAG compliance validation
 
-### ✅ Robust Reporting & Monitoring
+### Robust Reporting & Monitoring
 - **Multiple Report Formats** - HTML, JSON, JUnit, Allure
 - **Screenshots & Videos** - Automatic capture on failures
 - **Detailed Logging** - Winston-based structured logging
 - **Performance Metrics** - Response times and resource usage
 - **CI/CD Integration** - GitHub Actions, Jenkins ready
 
-### ✅ Data Management
+### Data Management
 - **Test Data Generation** - Faker.js for realistic data
 - **Database Integration** - MySQL and MongoDB support
 - **Environment Variables** - Secure configuration management
 - **Data Cleanup** - Automated test data removal
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -88,7 +88,7 @@ yesmadam-automation-framework/
    npm run test -- --reporter=line tests/e2e/home-page.spec.ts
    ```
 
-## 🎯 Running Tests
+## Running Tests
 
 ### Basic Test Execution
 ```bash
@@ -147,7 +147,7 @@ npm run test --grep "@smoke"
 npm run test --project=chrome
 ```
 
-## 📊 Reporting
+## Reporting
 
 ### Generate Reports
 ```bash
@@ -166,7 +166,7 @@ npm run allure:open
 - **Videos**: `test-results/`
 - **Logs**: `logs/`
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Settings
 Configure different environments in `src/config/environment.ts`:
@@ -187,7 +187,7 @@ Modify `playwright.config.ts` for:
 - **Generated Data**: Using `TestDataGenerator` utility
 - **Environment Variables**: `.env` file
 
-## 🧪 Writing Tests
+## Writing Tests
 
 ### Page Object Example
 ```typescript
@@ -223,7 +223,7 @@ test.describe('Example Tests', () => {
 });
 ```
 
-## 🚀 CI/CD Integration
+## CI/CD Integration
 
 ### GitHub Actions
 The framework includes GitHub Actions workflow for:
@@ -239,23 +239,23 @@ Example Jenkinsfile provided for:
 - Artifact storage
 - Email notifications
 
-## 🔒 Security & Best Practices
+## Security & Best Practices
 
 ### Security Features
-- ✅ Secure credential management
-- ✅ Environment-based configuration
-- ✅ Authentication state management
-- ✅ API token handling
-- ✅ Database connection security
+- Secure credential management
+- Environment-based configuration
+- Authentication state management
+- API token handling
+- Database connection security
 
 ### Code Quality
-- ✅ ESLint configuration
-- ✅ Prettier formatting
-- ✅ TypeScript strict mode
-- ✅ Pre-commit hooks
-- ✅ Code coverage reporting
+- ESLint configuration
+- Prettier formatting
+- TypeScript strict mode
+- Pre-commit hooks
+- Code coverage reporting
 
-## 📚 Framework Components
+## Framework Components
 
 ### Core Utilities
 - **Logger**: Structured logging with Winston
@@ -275,7 +275,7 @@ Example Jenkinsfile provided for:
 - **Security Tests**: Authentication and authorization
 - **Performance Tests**: Response time validation
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -298,7 +298,7 @@ Example Jenkinsfile provided for:
    - Review logs in `logs/` directory
    - Verify element selectors are correct
 
-## 📈 Performance Optimization
+## Performance Optimization
 
 ### Parallel Execution
 - Configure worker count in `playwright.config.ts`
@@ -310,7 +310,7 @@ Example Jenkinsfile provided for:
 - Use database transactions for test isolation
 - Cache authentication states
 
-## 🤝 Contributing
+## Contributing
 
 ### Development Workflow
 1. Create feature branch
@@ -325,36 +325,36 @@ Example Jenkinsfile provided for:
 - Include proper error handling
 - Write descriptive test names
 
-## 📞 Support
+## Support
 
 For framework support and questions:
 - **Documentation**: Check this README and inline code comments
 - **Issues**: Create GitHub issues with detailed descriptions
 - **Best Practices**: Follow the established patterns in existing tests
 
-## 🏆 Framework Benefits
+## Framework Benefits
 
 ### For QA Teams
-- ✅ Reduced test maintenance effort
-- ✅ Faster test execution
-- ✅ Better test coverage
-- ✅ Comprehensive reporting
+- Reduced test maintenance effort
+- Faster test execution
+- Better test coverage
+- Comprehensive reporting
 
 ### For Development Teams
-- ✅ Early bug detection
-- ✅ API contract validation
-- ✅ Regression prevention
-- ✅ Performance monitoring
+- Early bug detection
+- API contract validation
+- Regression prevention
+- Performance monitoring
 
 ### For Organizations
-- ✅ Improved software quality
-- ✅ Faster release cycles
-- ✅ Reduced manual testing effort
-- ✅ Better stakeholder confidence
+- Improved software quality
+- Faster release cycles
+- Reduced manual testing effort
+- Better stakeholder confidence
 
 ---
 
-## 📄 License
+## License
 
 This framework is proprietary and confidential. All rights reserved.
 

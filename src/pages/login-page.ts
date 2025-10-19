@@ -95,13 +95,13 @@ export class LoginPage extends BasePage {
     await this.verifyElementVisible(this.emailInput);
     await this.verifyElementVisible(this.passwordInput);
     await this.verifyElementVisible(this.loginButton);
-    this.logger.info('✅ Login page loaded successfully');
+    this.logger.info('Login page loaded successfully');
   }
 
   async verifySuccessfulLogin(): Promise<void> {
     // Wait for redirect to dashboard or home page
     await this.page.waitForURL('**/dashboard', { timeout: 10000 });
-    this.logger.info('✅ Login successful');
+    this.logger.info('Login successful');
   }
 
   async verifyLoginError(expectedErrorMessage?: string): Promise<void> {
@@ -111,7 +111,7 @@ export class LoginPage extends BasePage {
       await this.verifyElementContainsText(this.errorMessage, expectedErrorMessage);
     }
     
-    this.logger.info('✅ Login error message displayed');
+    this.logger.info('Login error message displayed');
   }
 
   async verifyEmailValidation(): Promise<void> {
@@ -138,7 +138,7 @@ export class LoginPage extends BasePage {
     if (await this.isElementVisible(this.socialLoginButtons)) {
       await this.verifyElementVisible(this.googleLoginButton);
       await this.verifyElementVisible(this.facebookLoginButton);
-      this.logger.info('✅ Social login options are available');
+      this.logger.info('Social login options are available');
     }
   }
 

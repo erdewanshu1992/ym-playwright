@@ -41,7 +41,7 @@ test.describe("Home Page Tests", () => {
 
   test("get all category names from home page", async () => {
     const categories = await homePage.getMainServiceCategoriesList();
-    console.log("🧾 Main Categories:", categories);
+    console.log("Main Categories:", categories);
     // expect(categories.length).toBe(7);
     expect(categories.length).toBeGreaterThan(0);
     expect(categories).toContain("Salon for Women");
@@ -68,13 +68,13 @@ test.describe("Home Page Tests", () => {
   test("should work on mobile viewport @mobile", async ({ page }) => {
     await page.setViewportSize({ width: 375, height: 667 });
 
-    const homePage = new HomePage(page); // 🔁 reinitialize for new `page`
+    const homePage = new HomePage(page); // reinitialize for new `page`
     await homePage.verifyServicePageLoaded("delhi", "waxing");
   });
 
   test("should work on tablet viewport @tablet", async ({ page }) => {
     await page.setViewportSize({ width: 768, height: 1024 });
-    const homePage = new HomePage(page); // 🔁 reinitialize for new `page`
+    const homePage = new HomePage(page); // reinitialize for new `page`
     await homePage.verifyServicePageLoaded("delhi", "waxing");
   });
 

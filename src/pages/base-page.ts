@@ -124,10 +124,10 @@ export abstract class BasePage {
   // async verifyPageURL(expectedPattern: RegExp): Promise<void> {
   //   const currentURL = this.page.url();
   //     if (!expectedPattern.test(currentURL)) {
-  //       throw new Error(`❌ URL mismatch: Expected pattern ${expectedPattern}, but got ${currentURL}`);
+  //       throw new Error(`URL mismatch: Expected pattern ${expectedPattern}, but got ${currentURL}`);
   //     }
-  //     this.logger.info(`✅ URL verified: ${currentURL}`);
-  // }
+  //     this.logger.info(`URL verified: ${currentURL}`);
+  //   }
 
 
   // Utility methods

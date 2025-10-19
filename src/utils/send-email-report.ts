@@ -11,7 +11,7 @@ const reportHtmlPath = path.resolve('allure-report/index.html');
 
 function generateSummary() {
   if (!fs.existsSync(summaryPath)) {
-    console.warn('⚠️ Allure summary file not found!');
+    console.warn('Allure summary file not found!');
     return {
       total: 0,
       passed: 0,
@@ -45,7 +45,7 @@ async function sendEmailWithReport() {
     },
   });
 
-  const subject = process.env.EMAIL_SUBJECT || '✅ Playwright Automation Test Report';
+  const subject = process.env.EMAIL_SUBJECT || 'Playwright Automation Test Report';
 
   const body = `
 Test Execution Summary:
@@ -78,9 +78,9 @@ Automation Team
   };
 
   await transporter.sendMail(mailOptions);
-  console.log('✅ Email sent successfully with summary and index.html');
+  console.log('Email sent successfully with summary and index.html');
 }
 
 sendEmailWithReport().catch((err) => {
-  console.error('❌ Failed to send email:', err);
+  console.error('Failed to send email:', err);
 });

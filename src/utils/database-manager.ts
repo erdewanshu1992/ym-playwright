@@ -26,9 +26,9 @@ export class DatabaseManager {
           database: env.database.name,
         });
 
-        logger.info('✅ MySQL connection established');
+        logger.info('MySQL connection established');
       } catch (error) {
-        logger.error('❌ Failed to connect to MySQL:', error);
+        logger.error('Failed to connect to MySQL:', error);
         throw error;
       }
     }
@@ -47,9 +47,9 @@ export class DatabaseManager {
         await this.mongoClient.connect();
         this.mongoDB = this.mongoClient.db(env.database.name);
 
-        logger.info('✅ MongoDB connection established');
+        logger.info('MongoDB connection established');
       } catch (error) {
-        logger.error('❌ Failed to connect to MongoDB:', error);
+        logger.error('Failed to connect to MongoDB:', error);
         throw error;
       }
     }
@@ -66,7 +66,7 @@ export class DatabaseManager {
       const [results] = await connection.execute(query, params);
       return results;
     } catch (error) {
-      logger.error('❌ Query execution failed:', { query, params, error });
+      logger.error('Query execution failed:', { query, params, error });
       throw error;
     }
   }
@@ -80,7 +80,7 @@ export class DatabaseManager {
       const results = await db.collection(collection).find(filter).toArray();
       return results;
     } catch (error) {
-      logger.error('❌ MongoDB find operation failed:', { collection, filter, error });
+      logger.error('MongoDB find operation failed:', { collection, filter, error });
       throw error;
     }
   }
@@ -92,17 +92,17 @@ export class DatabaseManager {
       if (this.mysqlConnection) {
         await this.mysqlConnection.end();
         this.mysqlConnection = null;
-        logger.info('✅ MySQL connection closed');
+        logger.info('MySQL connection closed');
       }
 
       if (this.mongoClient) {
         await this.mongoClient.close();
         this.mongoClient = null;
         this.mongoDB = null;
-        logger.info('✅ MongoDB connection closed');
+        logger.info('MongoDB connection closed');
       }
     } catch (error) {
-      logger.error('❌ Error closing database connections:', error);
+      logger.error('Error closing database connections:', error);
     }
   }
 }

@@ -69,7 +69,7 @@ export class HomePage extends BasePage {
   async searchForService(serviceName: string): Promise<void> {
     await this.searchBox.click();
     await this.page.waitForLoadState('domcontentloaded');
-    this.logger.info(`🔍 Searching for service: ${serviceName}`);
+    this.logger.info(`Searching for service: ${serviceName}`);
     await this.fill(this.searchButton, serviceName);
     await this.waitForPageLoad();
 
@@ -80,7 +80,7 @@ export class HomePage extends BasePage {
       await this.waitForElement(searchResults);
       await searchResults.waitFor({ state: 'visible', timeout: 5000 });
 
-      // ✅ Click the first suggestion directly
+      // Click the first suggestion directly
       await searchResults.click();
       await this.waitForPageLoad();
     }
@@ -143,10 +143,10 @@ async clickMainCategoryAndGetServices(categoryName: string): Promise<string[]> {
     mainCategory.first().click()
   ]);
 
-  // ✅ Step 1: Focus only on the grid that contains services
+  // Step 1: Focus only on the grid that contains services
   const servicesGrid = this.page.locator('div.grid.grid-cols-3.gap-6');
 
-  // ✅ Step 2: Extract <p> only inside services grid
+  // Step 2: Extract <p> only inside services grid
   const serviceLocator = servicesGrid.locator('p.text-xs.text-center.font-inter');
 
   await expect(serviceLocator.first()).toBeVisible({ timeout: 10000 });
@@ -192,7 +192,7 @@ async clickService(serviceName: string): Promise<void> {
     await this.verifyElementVisible(this.logo);
     await this.verifyElementVisible(this.heroSection);
     await this.verifyElementVisible(this.services);
-    this.logger.info('✅ Home page loaded successfully');
+    this.logger.info('Home page loaded successfully');
   }
 
 async verifyServicePageLoaded(city: string, slug: string): Promise<void> {
@@ -202,7 +202,7 @@ async verifyServicePageLoaded(city: string, slug: string): Promise<void> {
   // Assert that at least one service card is visible
   await expect(this.page.locator('a.w-full:has(p)').first()).toBeVisible({ timeout: 5000 });
 
-  this.logger.info(`✅ Services loaded for /${city}/${slug}`);
+  this.logger.info(`Services loaded for /${city}/${slug}`);
 }
 
 async verifyServiceMainCategoriesDisplayed(): Promise<void> {
@@ -210,7 +210,7 @@ async verifyServiceMainCategoriesDisplayed(): Promise<void> {
 
   const categoryCount = await this.mainCategories.count();
   if (categoryCount === 0) {
-    throw new Error(chalk.red('❌ No service categories found'));
+    throw new Error(chalk.red('No service categories found'));
   }
 
   const visibleCategories: string[] = [];
@@ -224,11 +224,11 @@ async verifyServiceMainCategoriesDisplayed(): Promise<void> {
   }
 
   // this.logger.info(
-  //   chalk.blueBright(`✅ All ${categoryCount} service categories are visible:`) + 
+  //   chalk.blueBright(`All ${categoryCount} service categories are visible:`) +
   //   '\n  ' + visibleCategories.join('\n  ')
   // );
 
-  this.logger.info(chalk.greenBright(`✅ All ${categoryCount} service categories are visible:`));
+  this.logger.info(chalk.greenBright(`All ${categoryCount} service categories are visible:`));
   this.logger.info(visibleCategories.map(cat => chalk.underline(`  ${cat}`)).join('\n'));
   // this.logger.info(chalk.greenBright(visibleCategories.join('\n ')));
 
@@ -246,14 +246,14 @@ async verifyFeaturedServicesDisplayedAfterCategoryClick(): Promise<void> {
   const services = await this.getServicesList();
 
   if (services.length === 0) {
-    throw new Error('❌ No featured services found after clicking category');
+    throw new Error('No featured services found after clicking category');
   }
 
-  this.logger.info(chalk.underline(`✅ Featured services loaded: ${services.join('\n ')}`));
-  this.logger.info(chalk.blueBright(`✅ Found ${services.length} visible featured services after category click`));
+  this.logger.info(chalk.underline(`Featured services loaded: ${services.join('\n ')}`));
+  this.logger.info(chalk.blueBright(`Found ${services.length} visible featured services after category click`));
 
   await this.page.getByRole('button').click();
-  this.logger.info(chalk.magentaBright('✅ Bottom sheet closed after verifying featured services'));
+  this.logger.info(chalk.magentaBright('Bottom sheet closed after verifying featured services'));
 
 
 }
@@ -262,7 +262,7 @@ async verifyFeaturedServicesDisplayedAfterCategoryClick(): Promise<void> {
   async verifyHowItWorksSectionDisplayed(): Promise<void> {
     await this.scrollToElement(this.howItWorksSection);
     await this.verifyElementVisible(this.howItWorksSection);
-    this.logger.info('✅ How It Works section is displayed');
+    this.logger.info('How It Works section is displayed');
   }
 
   async verifyCustomerReviewsDisplayed(): Promise<void> {
@@ -272,13 +272,13 @@ async verifyFeaturedServicesDisplayedAfterCategoryClick(): Promise<void> {
     if (reviewCount === 0) {
       throw new Error('No customer reviews found');
     }
-    this.logger.info(`✅ Found ${reviewCount} customer reviews`);
+    this.logger.info(`Found ${reviewCount} customer reviews`);
   }
 
   async verifyFooterDisplayed(): Promise<void> {
     await this.scrollToElement(this.footer);
     await this.verifyElementVisible(this.footer);
-    this.logger.info('✅ Footer is displayed');
+    this.logger.info('Footer is displayed');
   }
 
   // Utility methods

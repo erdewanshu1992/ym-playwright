@@ -105,7 +105,7 @@ export class APIBase {
       throw new Error('Authentication failed: No token received');
     }
 
-    this.logger.info('✅ Authentication successful');
+    this.logger.info('Authentication successful');
     return token;
   }
 

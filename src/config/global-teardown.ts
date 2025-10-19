@@ -7,7 +7,7 @@ import { DatabaseManager } from '../utils/database-manager';
  */
 async function globalTeardown() {
   const logger = Logger.getInstance();
-  logger.info('🧹 Starting global teardown...');
+  logger.info('Starting global teardown...');
 
   try {
     // Clean up test data
@@ -16,9 +16,9 @@ async function globalTeardown() {
     // Close database connections
     await DatabaseManager.closeAllConnections();
     
-    logger.info('✅ Global teardown completed successfully');
+    logger.info('Global teardown completed successfully');
   } catch (error) {
-    logger.error('❌ Global teardown failed:', error);
+    logger.error('Global teardown failed:', error);
   }
 }
 
@@ -31,9 +31,9 @@ async function cleanupTestData() {
     // Implement test data cleanup logic here
     // This could include removing test users, orders, etc.
     
-    logger.info('✅ Test data cleanup completed');
+    logger.info('Test data cleanup completed');
   } catch (error) {
-    logger.error('❌ Test data cleanup failed:', error);
+    logger.error('Test data cleanup failed:', error);
     throw error;
   }
 }
