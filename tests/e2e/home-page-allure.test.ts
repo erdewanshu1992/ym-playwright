@@ -24,7 +24,7 @@ test.describe("Home Page Tests", () => {
 
     await homePage.verifyHomePageLoaded();
     await homePage.verifyPageTitle(
-      "Luxury Salon At Home in Delhi At Home Services | Best Salon Near Me"
+      "Luxury Salon At Home in Delhi | Best Salon Near Me"
     );
   });
 
@@ -59,7 +59,7 @@ test.describe("Home Page Tests", () => {
     );
 
     expect(categories.length).toBeGreaterThan(0);
-    expect(categories).toContain("Salon At Home");
+    expect(categories).toContain("Salon for Women"); // Salon for Women", "Salon At Home"); // Salon At Home"
 
     await homePage.takeScreenshot("categories-list");
   });
@@ -110,7 +110,7 @@ test.describe("Home Page Tests", () => {
   test.skip("should allow service search @smoke @regression", async () => {
     await homePage.verifyHomePageLoaded();
     await homePage.verifyPageTitle(
-      "Luxury Salon At Home in Delhi At Home Services | Best Salon Near Me"
+      "Luxury Salon At Home in Delhi | Best Salon Near Me"
     );
     const searchTerm = "hair cut";
     await homePage.searchForService(searchTerm);

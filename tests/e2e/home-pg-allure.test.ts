@@ -33,8 +33,8 @@ test.describe("Home Page Tests", () => {
 
     await test.step("Verify title", async () => {
       await homePage.verifyPageTitle(
-        "Luxury Salon At Home in Delhi At Home Services | Best Salon Near Me"
-      );
+        "Luxury Salon At Home in Delhi | Best Salon Near Me"
+      ); // "Luxury Salon At Home in Delhi At Home Services | Best Salon Near Me"
     });
 
     allure.severity("critical"); // can be: blocker, critical, normal, minor, trivial
