@@ -29,12 +29,15 @@ jobs:
     - name: Run Playwright tests
       run: |
         # Run tests and ensure allure-results directory exists
-        npx playwright test tests/e2e/ --reporter=allure-playwright,line,junit || true
+        npx playwright test tests/e2e/ --reporter=allure-playwright,line,junit --timeout=30000 || true
         # List files to verify results were generated
         echo "Allure results after test run:"
         ls -la allure-results/ || echo "No allure-results directory"
         echo "Test results after test run:"
         ls -la test-results/ || echo "No test-results directory"
+        # Show count of allure result files
+        echo "Number of Allure result files:"
+        find allure-results -name "*.json" | wc -l || echo "0"
       continue-on-error: true
       env:
         CI: true

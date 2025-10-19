@@ -1,56 +1,5 @@
 {
-  "cookies": [
-    {
-      "name": "AF_DEFAULT_MEASUREMENT_STATUS",
-      "value": "true",
-      "domain": ".yesmadam.com",
-      "path": "/",
-      "expires": 1795469179.606378,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "af_id",
-      "value": "a94647b4-9fcd-4abc-ab08-52afaaa44582-p",
-      "domain": ".appsflyer.com",
-      "path": "/",
-      "expires": 1795037179.991036,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "afUserId",
-      "value": "a94647b4-9fcd-4abc-ab08-52afaaa44582-p",
-      "domain": ".yesmadam.com",
-      "path": "/",
-      "expires": 1795469179.993407,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "af_id",
-      "value": "a94647b4-9fcd-4abc-ab08-52afaaa44582-p",
-      "domain": ".onelink.me",
-      "path": "/",
-      "expires": 1795037180.144649,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "AF_SYNC",
-      "value": "1760909180145",
-      "domain": ".yesmadam.com",
-      "path": "/",
-      "expires": 1761513980,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    }
-  ],
+  "cookies": [],
   "origins": [
     {
       "origin": "https://www.yesmadam.com",
@@ -58,10 +7,6 @@
         {
           "name": "address",
           "value": "{\"state\":{\"hydrated\":true,\"address\":\"\",\"currentLocation\":{\"lat\":\"\",\"lng\":\"\"},\"addressDetail\":{},\"tempAddressDetail\":{},\"userAllAddress\":[],\"datenTime\":{},\"selectedSlot\":{},\"userMetaData\":{},\"hubDetails\":{}},\"version\":0}"
-        },
-        {
-          "name": "AF_SESSION",
-          "value": "1760909179412"
         }
       ]
     }
