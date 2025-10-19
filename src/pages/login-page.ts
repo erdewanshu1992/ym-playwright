@@ -168,5 +168,9 @@ export class LoginPage extends BasePage {
     }
     return false;
   }
+
+  async verifyPageURL(expectedURL: string | RegExp): Promise<void> {
+    await super.verifyPageURL(expectedURL);
+  }
 }
 

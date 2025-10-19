@@ -66,6 +66,16 @@ export class HomePage extends BasePage {
     await this.page.waitForLoadState('domcontentloaded');
   }
 
+  async navigateToLogin(): Promise<void> {
+    await this.click(this.accountBtn);
+    await this.waitForPageLoad();
+  }
+
+  async navigateToSignup(): Promise<void> {
+    await this.click(this.accountBtn);
+    await this.waitForPageLoad();
+  }
+
   async searchForService(serviceName: string): Promise<void> {
     await this.searchBox.click();
     await this.page.waitForLoadState('domcontentloaded');
