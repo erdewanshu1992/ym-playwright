@@ -16,7 +16,10 @@ jobs:
         node-version: 24.x
         cache: 'npm'
     - name: Install dependencies
-      run: npm ci
+      run: |
+        npm ci
+        # Ensure allure-playwright is available
+        npm list allure-playwright || npm install allure-playwright --save-dev
       env:
         BASE_URL: ${{ secrets.BASE_URL || 'https://www.yesmadam.com' }}
         NODE_ENV: production
@@ -28,8 +31,13 @@ jobs:
 
     - name: Run Playwright tests
       run: |
+        # Verify allure-playwright is available
+        echo "Checking if allure-playwright is available:"
+        npm list allure-playwright
+
         # Run tests and ensure allure-results directory exists
-        npx playwright test tests/e2e/ --reporter=allure-playwright,line,junit --timeout=30000 || true
+        npx playwright test tests/e2e/ --reporter=line --timeout=30000 || true
+
         # List files to verify results were generated
         echo "Allure results after test run:"
         ls -la allure-results/ || echo "No allure-results directory"
