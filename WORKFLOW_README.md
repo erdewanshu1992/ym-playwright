@@ -42,6 +42,36 @@ jobs:
         name: playwright-report
         path: playwright-report/
         retention-days: 30
+
+    # ---------- SAVE HISTORY (IMPORTANT FOR GRAPH) ----------
+    - name: Download Allure History
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages
+        path: gh-pages
+      continue-on-error: true
+
+    - name: Copy Allure History
+      run: |
+        mkdir -p allure-history
+        if [ -d "gh-pages" ]; then
+          cp -r gh-pages/allure-history/* allure-history/ || true
+        fi
+
+    # ---------- GENERATE ALLURE HTML REPORT ----------
+    - name: Generate Allure Report
+      run: |
+        npm install -g allure-commandline --save-dev
+        allure generate allure-results --clean -o allure-report
+        cp -r allure-report/history allure-history || true
+        cp -r allure-history allure-report
+
+    # ---------- DEPLOY REPORT TO GITHUB PAGES ----------
+    - name: Deploy Allure Report to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./allure-report
 ```
 
 ## 🔧 How It Works
@@ -130,6 +160,66 @@ The workflow is triggered by:
 - Accessible via GitHub UI or API
 - Runs even if tests fail (hence `!cancelled()` condition)
 
+#### Step 7: Download Allure History
+```yaml
+- name: Download Allure History
+  uses: actions/checkout@v3
+  with:
+    ref: gh-pages
+    path: gh-pages
+  continue-on-error: true
+```
+**What happens:**
+- Downloads existing Allure history from gh-pages branch
+- Preserves test execution trends and graphs
+- Continues even if no previous history exists
+- Creates `gh-pages` directory with historical data
+
+#### Step 8: Copy Allure History
+```yaml
+- name: Copy Allure History
+  run: |
+    mkdir -p allure-history
+    if [ -d "gh-pages" ]; then
+      cp -r gh-pages/allure-history/* allure-history/ || true
+    fi
+```
+**What happens:**
+- Creates `allure-history` directory for trend data
+- Copies historical Allure data from gh-pages branch
+- Preserves test execution history for graphs
+- Handles cases where no previous history exists
+
+#### Step 9: Generate Allure Report
+```yaml
+- name: Generate Allure Report
+  run: |
+    npm install -g allure-commandline --save-dev
+    allure generate allure-results --clean -o allure-report
+    cp -r allure-report/history allure-history || true
+    cp -r allure-history allure-report
+```
+**What happens:**
+- Installs Allure command line tools globally
+- Generates HTML report from test results
+- Creates comprehensive test report with graphs and trends
+- Preserves history for trend analysis
+- Outputs report to `allure-report/` directory
+
+#### Step 10: Deploy to GitHub Pages
+```yaml
+- name: Deploy Allure Report to GitHub Pages
+  uses: peaceiris/actions-gh-pages@v3
+  with:
+    github_token: ${{ secrets.GITHUB_TOKEN }}
+    publish_dir: ./allure-report
+```
+**What happens:**
+- Deploys generated Allure report to GitHub Pages
+- Creates/updates gh-pages branch with report
+- Makes test reports publicly accessible
+- Updates historical data for future trend analysis
+
 ## 📊 Performance & Optimization
 
 ### Caching Strategy
@@ -169,9 +259,18 @@ The workflow is triggered by:
 **Solution:** Reduce parallel workers or optimize test data
 
 ### Accessing Test Reports
+
+#### Method 1: GitHub Actions Artifacts (Quick Access)
 1. In workflow run, click on "Artifacts" section
 2. Download `playwright-report` artifact
 3. Open `index.html` in browser to view detailed results
+4. **Note**: Artifacts are available for 30 days
+
+#### Method 2: GitHub Pages (Always Available)
+1. Go to repository Settings → Pages
+2. Find the deployed Allure report URL
+3. Access comprehensive test reports with historical trends
+4. **Note**: Reports are updated with each workflow run
 
 ## 🛠️ Customization Options
 
