@@ -11,6 +11,22 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
+    # Install Node & Dependencies
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Install Dependencies
+      run: npm ci
+
+    # Run Playwright Tests to generate allure-results
+    - name: Install Playwright Browsers
+      run: npx playwright install --with-deps
+
+    - name: Run Playwright Tests
+      run: npx playwright test
+
     # Restore previous history from gh-pages (for trend graph)
     - name: Download Allure History
       uses: actions/checkout@v3
