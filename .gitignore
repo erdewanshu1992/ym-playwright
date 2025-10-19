@@ -4,3 +4,4 @@ allure-results
 node_modules
 reports
 test-results
+logs
