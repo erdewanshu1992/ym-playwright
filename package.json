@@ -47,6 +47,7 @@
     "winston": "^3.11.0"
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.1",
     "@faker-js/faker": "^9.8.0",
     "@playwright/test": "^1.53.1",
     "@types/archiver": "^6.0.3",
