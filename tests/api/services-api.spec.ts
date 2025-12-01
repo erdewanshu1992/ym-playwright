@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { APIBase } from './api-base.test';
+import { APIBase } from './api-base';
 import { TestDataGenerator } from '../../src/utils/test-data-generator';
 
 /**
