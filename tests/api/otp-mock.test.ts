@@ -64,7 +64,7 @@ test("OTP API mocking + Emulator view (YesMadam login)", async ({
   const box = await page.locator('button:has-text("Continue")').boundingBox();
   console.log("Bounding box:", box);
 
-  await page.screenshot({ path: "before-click.png", fullPage: true });
+  await page.screenshot({ path: "screenshots/before-click.png", fullPage: true });
 
   await page
     .locator('button:has-text("Continue")')
@@ -97,7 +97,7 @@ test("OTP API mocking + Emulator view (YesMadam login)", async ({
 
   // Step 8: Let response reflect
   await page.waitForTimeout(2000);
-  await page.screenshot({ path: "after-otp.png", fullPage: true });
+  await page.screenshot({ path: "screenshots/after-otp.png", fullPage: true });
 
   // Final assertion — this is the element shown after login
   await expect(page.locator('h4:has-text("Test")')).toBeVisible();
